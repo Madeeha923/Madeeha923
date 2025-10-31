@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Madeeha</h1>
-<h3>Master’s student specializing in Artificial Intelligence and Machine Learning</h3>
-<h3>I build things related to machine learning, deep learning, NLP, GenAI
+<h4>Master’s student specializing in Artificial Intelligence and Machine Learning</h4>
+<h4>I build things related to machine learning, deep learning, NLP, GenAI</h4>
+<h4>exploring about GenAI and AgenticAI<h4>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=madeeha923&label=Profile%20views&color=0e75b6&style=flat" alt="madeeha923" /> </p> -->
 
