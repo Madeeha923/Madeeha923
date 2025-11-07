@@ -51,7 +51,7 @@
 
 
 ## Connect with me  
-<div align="center">
+<!-- <div align="center">
 <a href="https://github.com/https://github.com/Madeeha923" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -69,7 +69,9 @@
 </div>  
   
 
-<br/>  
+<br/>   -->
+I'm always open to collaboration or exciting project ideas!  
+Reach out to me at **madeeha0137@hotmail.com** 
 
 
 <!-- ## Github Stats  
