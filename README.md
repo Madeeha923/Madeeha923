@@ -35,27 +35,23 @@
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="25" /></a>  
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="25" /></a>  
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="25" /></a>  
-<a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/fastapi.svg" alt="FastAPI" height="25" /></a>
-<a href="https://www.n8n.io/" target="_blank"><img style="margin: 10px" src="https://cdn.n8n.io/static/img/n8n-logo-dark.svg" alt="n8n" height="25" /></a>
-<a href="https://zapier.com/" target="_blank"><img style="margin: 10px" src="https://cdn.zapier.com/zapier/images/z-logo.png" alt="Zapier" height="25" /></a>
-<a href="https://www.llamaindex.ai/" target="_blank"><img style="margin: 10px" src="https://www.llamaindex.ai/favicon.ico" alt="LlamaIndex" height="25" /></a>
-<a href="https://www.langchain.com/langgraph" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain_logo_light.svg" alt="LangGraph" height="25" /></a>
-<a href="https://www.langchain.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain_logo_light.svg" alt="LangChain" height="25" /></a>
-<a href="https://huggingface.co/" target="_blank"><img style="margin: 10px" src="https://huggingface.co/front/assets/huggingface_logo-nobg.svg" alt="HuggingFace" height="25" /></a>
-<a href="https://mlflow.org/" target="_blank"><img style="margin: 10px" src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-white-TM.png" alt="MLflow" height="25" /></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/fastapi/009688" alt="FastAPI" height="25" /></a>
+<a href="https://www.n8n.io/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/n8n/FF6D5A" alt="n8n" height="25" /></a>
+<a href="https://zapier.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/zapier/FF4A00" alt="Zapier" height="25" /></a>
+<a href="https://www.llamaindex.ai/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/130733075?s=200&v=4" alt="LlamaIndex" height="25" /></a>
+<a href="https://www.langchain.com/langgraph" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="LangGraph" height="25" /></a>
+<a href="https://www.langchain.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="LangChain" height="25" /></a>
+<a href="https://huggingface.co/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="HuggingFace" height="25" /></a>
+<a href="https://mlflow.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/mlflow/0194E2" alt="MLflow" height="25" /></a>
 </div>
 
 </td><td valign="top" width="33%">
 
-
-
 </td><td valign="top" width="33%">
-
-
 
 </td></tr>
 
-<br/>  
+<br/>
 
 
 ## Connect with me  
